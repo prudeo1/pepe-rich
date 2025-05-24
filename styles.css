@@ -309,6 +309,50 @@ html{
     }
 }
 
+
+
+@media (max-width: 393px){
+     .whitepaper-btn {
+        font-size: 1rem;
+        padding: 8px 20px;
+    }
+    
+    .pepe-image img {
+        height: 180px;
+    }
+    
+    .coins {
+        width: 120px;
+        height: 100px;
+    }
+    
+    .section {
+        padding: 0px 0;
+    }
+    
+    .section-header h2 {
+        font-size: 1.8rem;
+    }
+    
+    .feature-card {
+        min-width: 100%;
+    }
+    
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .social-links-large {
+        width: 100%;
+    }
+    .nav-item {
+      font-size: 11px;
+      padding: 5px 8px;
+  }
+}
+
+
+
 .section1{
     /* background-image: url("img 4.jpeg"); */
     width: 100%;
