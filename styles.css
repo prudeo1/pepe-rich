@@ -457,7 +457,7 @@ html{
       max-width: 250px;
     }
     .section.section1 .section_inner .section_content .text {
-      top: 400px;
+      top: 10px;
       font-size: 80px;
     }
     .section.section1 .section_inner .section_content .whitepaper {
